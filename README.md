@@ -7,5 +7,6 @@ A new Flutter project.
 
 
 
+
 ## 🚀 Features
 - stored posts list in the local storage and integrated offline first architecture

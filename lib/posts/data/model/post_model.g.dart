@@ -64,7 +64,7 @@ const PostModelSchema = CollectionSchema(
   getId: _postModelGetId,
   getLinks: _postModelGetLinks,
   attach: _postModelAttach,
-  version: '3.1.0',
+  version: '3.1.0+1',
 );
 
 int _postModelEstimateSize(
